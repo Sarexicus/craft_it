@@ -1,4 +1,4 @@
-#> craft_it:setup_master_stand
+#> craft_it:setup/setup_stand_master
 #> sets up master stand
 #> context: @e[tag=ci_chest_master,tag=ci_chest_unready]
 
