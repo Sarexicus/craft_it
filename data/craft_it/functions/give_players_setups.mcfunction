@@ -1,3 +1,4 @@
 #> craft_it:give_players_setups
 
 give @a[gamemode=!spectator] armor_stand{display:{Name:'{"text":"Crafting Station","color":"gold","italic":false}',Lore:['[{"text":"Place to participate in ","color":"gray","italic":false},{"text":"craft it!","color":"gray","italic":true}]']},EntityTag:{NoGravity:1b,Invulnerable:1b,Small:1b,Tags:["ci_chest","ci_chest_unready"],ArmorItems:[{},{},{},{id:"minecraft:iron_helmet",Count:1b}]}} 1
+give @s armor_stand{display:{Name:'{"text":"Crafting Item Chest","color":"light_purple","italic":false}',Lore:['[{"text":"[Host] Place to begin ","color":"gray","italic":false},{"text":"craft it!","color":"gray","italic":true}]']},EntityTag:{NoGravity:1b,Invulnerable:1b,Small:1b,Tags:["ci_chest_master","ci_chest_unready"],Pose:{Head:[0f,0f,0f]},ArmorItems:[{},{},{},{id:"minecraft:light_blue_banner",Count:1b}]}} 1

@@ -1,4 +1,4 @@
-#> craft_it:setup_stand
+#> craft_it:setup/setup_stand
 
 execute rotated ~ 0 run fill ^1 ^ ^ ^1 ^ ^ minecraft:furnace replace air
 
